@@ -26,3 +26,12 @@ Configuration
 ----------
 
 You can see config.yaml.
+
+
+API List
+----------
+	GET /
+	POST /login
+	POST /logout
+	GET /members
+	PUT /members
