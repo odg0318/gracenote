@@ -16,7 +16,8 @@ Get started!
 ----------
 	sudo apt-get install ruby gem
 	sudo gem install bundler
-	cd path/to/project
+	git clone https://github.com/odg0318/gracenote
+	cd gracenote
 	bundle install
 	ruby initialize.rb
 
