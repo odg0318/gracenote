@@ -25,8 +25,3 @@ Configuration
 ----------
 
 You can see config.yaml.
-	port: 10000
-	session_expired_time_secs: 30
-
-
-	
